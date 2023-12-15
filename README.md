@@ -15,6 +15,7 @@ i)	# To find the maximum of marks using the list method sort.
 Program to mark the maximum of marks using the list method sort
 Developed by: Piritharaman R
 RegisterNumber: 23013537
+'''
 def max_marks(marks):
     marks.sort()
     return marks[-1]
